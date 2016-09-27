@@ -36,8 +36,9 @@
 ehthumbs.db
 Thumbs.db
 
+.directory
 
-*.html
+
 *.pyc
 *.json
 
